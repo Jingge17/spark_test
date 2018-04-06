@@ -1,0 +1,1 @@
+resource要添加spark的lib目录下的jar包
